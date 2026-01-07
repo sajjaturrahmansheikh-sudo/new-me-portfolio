@@ -136,3 +136,28 @@ body{
 }
 
 
+.about-content h3{
+    font-size: 40px;
+    color: #151414;
+    width: 288px;
+    margin-bottom: 24px;
+}
+
+.about-content p{
+    color: #444343;
+    line-height: 28px;
+}
+.about-content .paragraph{
+    margin-bottom: 16px;
+    width: 416px;
+}
+
+.about-content .about-list p{
+    margin-bottom: 8px;
+}
+
+.about-content .about-list p i{
+    color: #16D887;
+}
+
+
