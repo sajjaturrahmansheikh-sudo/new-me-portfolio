@@ -192,3 +192,103 @@ body{
     color: #737272;
     font-weight:400; 
 }
+
+
+
+
+
+
+.call{
+    margin-bottom: 130px;
+}
+
+.call-section{
+    background: url("/images/gradient1.png") , url("/images/watch.png");
+    background-position: top left;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.call-content{
+    padding: 60px 65px;
+    width: 459px;
+}
+
+.call-content h2{
+    font-size: 40px;
+    color: #ffff;      
+    margin-bottom: 25px;
+}
+
+
+
+
+.footer{
+    background: #151414;
+}
+.footer-section{
+    padding: 130px 0;
+}
+
+.footer-des{
+    width: 485px;
+}
+
+
+.f-content h2{
+    color: #ffff;
+    font-size: 45px;
+    margin-bottom: 16px;
+    text-transform: capitalize;
+}
+
+.f-content p{
+    color: #ffff;
+    line-height: 28px;
+    margin-bottom: 24px;
+}
+
+.f-mail p{
+    color: #ffff;
+    margin-bottom: 16px;
+}
+
+.f-icons{
+    margin-top: 32px;
+}
+
+.f-icons a{
+    margin-right: 17px;
+}
+
+
+.f-subscribe h5{
+    font-size: 25px;
+    font-weight:500;
+    color: #fff;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
+
+.f-form input[type="email"]{
+    width: 100%;
+    background: transparent;
+    border: 1px solid #F3F3F3;
+    padding: 21px;
+    border-radius: 5px;
+    color: #fff;
+    margin-bottom: 16px;
+}
+
+.submit{
+    background: #005FAC;
+    padding: 20px 35px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 500;
+}
