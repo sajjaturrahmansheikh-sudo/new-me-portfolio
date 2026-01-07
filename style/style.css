@@ -203,7 +203,7 @@ body{
 }
 
 .call-section{
-    background: url("/images/gradient1.png") , url("/images/watch.png");
+    background: url("../images/gradient1.png") , url("../images/watch.png");
     background-position: top left;
     background-repeat: no-repeat;
     vertical-align: middle;
