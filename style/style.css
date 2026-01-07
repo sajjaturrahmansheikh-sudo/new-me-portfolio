@@ -161,3 +161,34 @@ body{
 }
 
 
+
+
+
+.plans{
+    margin: 130px 0;
+}
+
+.plan-title h2{
+    text-transform: capitalize;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 50px;
+}
+
+
+.plan-card img{
+    width: 92px;
+    margin-bottom: 30px;
+}
+
+
+.skill-con h5{
+    font-size: 30px;
+    color: #151414;
+    margin-bottom: 16px;
+}
+
+.skill-con p{
+    color: #737272;
+    font-weight:400; 
+}
