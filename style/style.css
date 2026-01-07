@@ -48,6 +48,7 @@
     border-radius: 5px;
     font-size: 20px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 
@@ -97,3 +98,41 @@ body{
     color: #ffff;
     margin-bottom: 32px;
 }
+
+
+
+
+
+
+
+
+
+.about-section{
+    padding-top: 130px;
+    gap: 87px;
+}
+
+
+
+.about-image {
+    position: relative;
+}
+
+.about-section .about-image img{
+    max-width: 569px;
+}
+
+.about-image:before {
+    content: '';
+    width: 527px;
+    height: 527px;
+    display: block;
+    position: absolute;
+    left: 23px;
+    bottom: 3px;
+    border-radius: 50%;
+    background: #f15b2266;
+    z-index: -1;
+}
+
+
