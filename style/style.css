@@ -72,7 +72,7 @@ body{
 
 
 .header{
-    background: url('/images/banner/banner3.png');
+    background: url('../images/banner/banner3.png');
     background-repeat: no-repeat;
     background-position: center;
     vertical-align: middle;
